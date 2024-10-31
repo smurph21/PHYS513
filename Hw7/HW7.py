@@ -1,5 +1,7 @@
 #HW7
 
+# Something went wrong with your RK implementation. I suggest using scipy.integrate.RK45 rather than writing your own implementation (or do both and compare).
+
 import numpy as np
 import matplotlib.pyplot as plt
 
